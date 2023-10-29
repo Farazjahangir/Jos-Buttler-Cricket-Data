@@ -1,0 +1,31 @@
+S.no,Batting position,Venue City,Ground,Opposite team,Pitch,Weather,Avg in last 5 matches,Avg in last 5 matches (Range),Fours in last five matches,Fours in last five matches (Range),Sixes in last five matches,Sixes in last five matches (Range),Score in last five matches,Score in last five matches (Range),Score,Score (Range)
+1,Four,Dharamsala,Himachal Pradesh Cricket Association Stadium,Bangladesh,Well-balanced,Sunny,43.8,Twenty Nine - Fifty Five,20,More than Twelve,6,Four - Ten,219,More than Two Hundred Four,20,Zero - Thirty
+2,Six,Ahmedabad,Narendra Modi Stadium,New Zealand,Flat,Hot and Sunny,40.4,Twenty Nine - Fifty Five,18,More than Twelve,4,Four - Ten,202,Ninety Four - Two Hundred Four,43,Thirty One - Eighty Five
+3,Five,London,Lord's Stadium,New Zealand,Well-balanced,Clear and Sunny,48.4,Twenty Nine - Fifty Five,20,More than Twelve,4,Four - Ten,242,More than Two Hundred Four,36,Thirty One - Eighty Five
+4,Five,London,Oval Stadium,New Zealand,Grass,Overcast and Breezy,42.6,Twenty Nine - Fifty Five,15,More than Twelve,4,Four - Ten,213,More than Two Hundred Four,38,Thirty One - Eighty Five
+5,Five,Southampton,The Rose Bowl,New Zealand,Slow,Overcast and Breezy,62.8,More than Fifty Six,17,More than Twelve,11,More than Ten,314,More than Two Hundred Four,30,Zero - Thirty
+6,Five,Cardiff,Sophia Gardens,New Zealand,Hard and dry,Overcast and Breezy,84,More than Fifty Six,20,More than Twelve,12,More than Ten,336,More than Two Hundred Four,72,Thirty One - Eighty Five
+7,Six,Chattogram,Zahur Ahmed Chowdhury Stadium,Bangladesh,Flat,Sunny and hot,86.5,More than Fifty Six,24,More than Twelve,12,More than Ten,346,More than Two Hundred Four,26,Zero - Thirty
+8,Five,Mirpur,Shere Bangla National Stadium,Bangladesh,Slow and low,Overcast and humid,67.75,More than Fifty Six,19,More than Twelve,10,Four - Ten,271,More than Two Hundred Four,76,Thirty One - Eighty Five
+9,Five,Mirpur,Shere Bangla National Stadium,Bangladesh,Flat,Hot and Humid,72.75,More than Fifty Six,20,More than Twelve,10,Four - Ten,291,More than Two Hundred Four,9,Zero - Thirty
+10,Five,Kimberley,Diamond Oval,South Africa,Hard and bouncy,Sunny and warm,44.75,Twenty Nine - Fifty Five,15,More than Twelve,3,Zero - Three,179,Ninety Four - Two Hundred Four,131,More than Eighty Five
+11,Five,Bloemfontein,Mangaung Oval,South Africa,Flat,Sunny and Hot,19.4,Two - Twenty Eight,8,Five - Twelve,0,Zero - Three,97,Ninety Four - Two Hundred Four,94,More than Eighty Five
+12,Five,Bloemfontein,Mangaung Oval,South Africa,Highveld,Sunny,24.2,Two - Twenty Eight,7,Five - Twelve,2,Zero - Three,121,Ninety Four - Two Hundred Four,36,Thirty One - Eighty Five
+13,Six,Melbourne,Melbourne Cricket Ground,Australia,Flat,Sunny and Warm,24.8,Two - Twenty Eight,7,Five - Twelve,2,Zero - Three,124,Ninety Four - Two Hundred Four,1,Zero - Thirty
+14,Six,Adelaide,Adelaide Oval,Australia,Flat,Sunny,25,Two - Twenty Eight,11,Five - Twelve,2,Zero - Three,125,Ninety Four - Two Hundred Four,29,Zero - Thirty
+15,Six,Manchester,Old Trafford,South Africa,Flat,Sunny,48,Twenty Nine - Fifty Five,17,More than Twelve,7,Four - Ten,192,Ninety Four - Two Hundred Four,19,Zero - Thirty
+16,Five,Chester-le-Street,Riverside Ground,South Africa,Well-balanced,Sunny and Dry,114,More than Fifty Six,23,More than Twelve,16,More than Ten,342,More than Two Hundred Four,12,Zero - Thirty
+17,Five,Manchester,Old Trafford,India,Flat,Sunny and Hot,99,More than Fifty Six,22,More than Twelve,19,More than Ten,297,More than Two Hundred Four,60,Thirty One - Eighty Five
+18,Five,London,Lord's Stadium,India,Grass,Sunny and Dry,97.67,More than Fifty Six,22,More than Twelve,19,More than Ten,293,More than Two Hundred Four,4,Zero - Thirty
+19,Five,London,Oval Stadium,India,Flat,Sunny and Warm,88.33,More than Fifty Six,16,More than Twelve,19,More than Ten,265,More than Two Hundred Four,30,Zero - Thirty
+20,Four,Amstelveen,VRA Cricket Ground,Netherlands,Flat,Sunny and Warm,46.75,Twenty Nine - Fifty Five,9,Five - Twelve,14,More than Ten,187,Ninety Four - Two Hundred Four,86,More than Eighty Five
+21,Four,Amstelveen,VRA Cricket Ground,Netherlands,Flat,Sunny and Warm,5.6,Two - Twenty Eight,2,Zero - Four,0,Zero - Three,28,Fourteen - Ninety Four,162,More than Eighty Five
+22,Five,Pune,Maharashtra Cricket Association Stadium,India,Flat,Cloudy,2.8,Two - Twenty Eight,0,Zero - Four,0,Zero - Three,14,Fourteen - Ninety Four,15,Zero - Thirty
+23,Five,Pune,Maharashtra Cricket Association Stadium,India,Flat,Hot and Humid,14.6,Two - Twenty Eight,6,Five - Twelve,0,Zero - Three,73,Fourteen - Ninety Four,0,Zero - Thirty
+24,Five,Pune,Maharashtra Cricket Association Stadium,India,Flat,Sunny,16.4,Two - Twenty Eight,7,Five - Twelve,0,Zero - Three,82,Fourteen - Ninety Four,2,Zero - Thirty
+25,Five,Manchester,Old Trafford,Australia,Flat,Sunny,18.8,Two - Twenty Eight,8,Five - Twelve,2,Zero - Three,94,Fourteen - Ninety Four,8,Zero - Thirty
+26,Five,Manchester,Old Trafford,Australia,Flat,Sunny,23.2,Two - Twenty Eight,10,Five - Twelve,2,Zero - Three,116,Ninety Four - Two Hundred Four,3,Zero - Thirty
+27,Five,Manchester,Old Trafford,Australia,Flat,Sunny,25,Two - Twenty Eight,11,Five - Twelve,2,Zero - Three,125,Ninety Four - Two Hundred Four,1,Zero - Thirty
+28,Six,London,Lord's Stadium,New Zealand,Flat,Overcast,13.6,Two - Twenty Eight,5,Five - Twelve,2,Zero - Three,68,Fourteen - Ninety Four,59,Thirty One - Eighty Five
+29,Four,Chester-le-Street,Riverside Ground,New Zealand,Flat,Sunny,24.2,Two - Twenty Eight,6,Five - Twelve,6,Four - Ten,121,Ninety Four - Two Hundred Four,11,Zero - Thirty
+30,Six,Birmingham,Edgbaston,India,Flat,Sunny,40.8,Twenty Nine - Fifty Five,14,More than Twelve,6,Four - Ten,204,Ninety Four - Two Hundred Four,20,Zero - Thirty
